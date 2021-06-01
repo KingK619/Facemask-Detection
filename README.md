@@ -130,9 +130,14 @@ $ streamlit run deploy.py
 Feel free to **file a new issue** with a respective title and description on the the [Facemask_Detection](https://github.com/techyhoney/Facemask_Detection/issues) repository. If you already found a solution to your problem, **We would love to review your pull request**! 
 
 
-## :handshake: Our Contributors
+## :handshake: Contributors
+[Karanveer Sidana](https://www.linkedin.com/in/karanveer-sidana-07a49b1b1/)
 
-[CONTRIBUTORS.md](/CONTRIBUTORS.md)
+[Hiten Goyal](https://www.linkedin.com/in/hitengoyal/)
+
+[Charanjeet Singh](https://www.linkedin.com/)
+
+
 
 ## :eyes: License
 [MIT](https://github.com/techyhoney/Facemask_Detection/blob/main/LICENSE)
