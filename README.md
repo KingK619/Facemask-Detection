@@ -139,7 +139,4 @@ Feel free to **file a new issue** with a respective title and description on the
 
 
 
-## :eyes: License
-[MIT](https://github.com/techyhoney/Facemask_Detection/blob/main/LICENSE)
-
 
