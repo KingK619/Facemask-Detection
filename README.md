@@ -136,7 +136,7 @@ Feel free to **file a new issue** with a respective title and description on the
 
 [Hiten Goyal](https://www.linkedin.com/in/hitengoyal/)
 
-[Charanjeet Singh](https://www.linkedin.com/)
+[Charanjeet Singh](https://www.instagram.com/charan_jeet__/?hl=en)
 
 
 
