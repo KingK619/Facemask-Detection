@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
 
 ![Python](https://img.shields.io/badge/python-v3.6+-blue.svg)
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/chandrikadeb7/Face-Mask-Detection/issues)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/KingK619/Facemask-Detection/issues)
 [![Website monip.org](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](http://monip.org/)
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/techyhoney/Facemask_Detection/blob/main/LICENSE)
 
@@ -51,7 +51,7 @@ Our face mask detector didn't use any morphed masked images dataset. The model i
 This system can therefore be used in real-time applications which require face-mask detection for safety purposes due to the outbreak of Covid-19. This project can be integrated with embedded systems for application in airports, railway stations, offices, schools, and public places to ensure that public safety guidelines are followed.
 
 ## :file_folder: Dataset
-The dataset used can be downloaded here - [Click to Download](https://github.com/chandrikadeb7/Face-Mask-Detection/tree/master/dataset)
+The dataset used can be downloaded here - [Click to Download](https://github.com/techyhoney/Facemask_Detection/tree/master/dataset)
 
 This dataset consists of __4000 images__ belonging to two classes:
 *	__with_mask: 2000 images__
@@ -65,12 +65,12 @@ The images used were real images of faces wearing masks. The images were collect
 
 ## :gear: Prerequisites
 
-All the dependencies and required libraries are included in the file <code>requirements.txt</code> [See here](https://github.com/chandrikadeb7/Face-Mask-Detection/blob/master/requirements.txt)
+All the dependencies and required libraries are included in the file <code>requirements.txt</code> [See here](https://github.com/techyhoney/Facemask_Detection/blob/master/requirements.txt)
 
 ## 🚀&nbsp; Installation
 1. Clone the repo
 ```
-$ git clone https://github.com/chandrikadeb7/Face-Mask-Detection.git
+$ git clone https://github.com/KingK619/Facemask-Detection.git
 ```
 
 2. Change your directory to the cloned repo 
